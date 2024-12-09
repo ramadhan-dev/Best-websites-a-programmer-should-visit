@@ -20,7 +20,7 @@ When learning CS, there are some useful sites you must know to get always inform
 ## When you get stuck
 - [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
 
-## News
+## 👶 News
 - Stay updated with the latest in tech and programming.
 - Stay updated with the latest in tech and programming.
 - Stay updated with the latest in tech and programming.
@@ -38,7 +38,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - Stay updated with the latest in tech and programming.
 - Stay updated with the latest in tech and programming.
 
-## Magazines
+## 👶 Magazines
 - Explore curated content from popular programming magazines.
 
 
