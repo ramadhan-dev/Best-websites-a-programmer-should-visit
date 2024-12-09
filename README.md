@@ -22,6 +22,21 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## 📰 News
 - Stay updated with the latest in tech and programming.
+- Stay updated with the latest in tech and programming.
+- Stay updated with the latest in tech and programming.
+- Stay updated with the latest in tech and programming.
+- Stay updated with the latest in tech and programming.
+- Stay updated with the latest in tech and programming.
+- Stay updated with the latest in tech and programming.
+- Stay updated with the latest in tech and programming.
+- Stay updated with the latest in tech and programming.
+- Stay updated with the latest in tech and programming.
+- Stay updated with the latest in tech and programming.
+- Stay updated with the latest in tech and programming.
+- Stay updated with the latest in tech and programming.
+- Stay updated with the latest in tech and programming.
+- Stay updated with the latest in tech and programming.
+- Stay updated with the latest in tech and programming.
 
 ## 📚 Magazines
 - Explore curated content from popular programming magazines.
