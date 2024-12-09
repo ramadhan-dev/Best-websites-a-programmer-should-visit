@@ -13,6 +13,34 @@ When learning CS, there are some useful sites you must know to get always inform
 
 **Note** : [Chinese Version](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 
+
+
+## Table of contents
+* [Fungsi](#Fungsi)
+* [Install](#Install)
+* [Autentication](#Autentication)
+* [Logger](#Logger)
+* [Endpoint](#Endpoint)
+* [Dokumentasi](#Dokumentasi)
+
+## Fungsi 
+fungsi yang tersedia pada peoject ini antara lain
+
+Function      | Create             | Read                | Update             | Delete            |
+:------------ | :------------------| :-------------------| :------------------|-------------------|
+Tenant        | :white_check_mark: |  :white_check_mark: | :white_check_mark: | :white_check_mark:|
+Company        | :white_check_mark: |  :white_check_mark: | :white_check_mark: | :white_check_mark:|
+Division        | :white_check_mark: |  :white_check_mark: | :white_check_mark: | :white_check_mark:|
+USER        | :white_check_mark: |  :white_check_mark: | :white_check_mark: | :white_check_mark:|
+User-location        | :white_check_mark: |  :white_check_mark: | :white_check_mark: | :white_check_mark:|
+
+
+## Autentication
+untuk authentication menggunakan jsonwebtoken
+jadi setiap request yang masuk akan di periksa apkah tokennya valid atau tidak 
+
+
+
 ## 📖 Index
 * [When you get stuck](#when-you-get-stuck)
 * [News](#news)
