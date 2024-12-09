@@ -12,98 +12,20 @@ Some useful websites for programmers.
 When learning CS, there are some useful sites you must know to get always informed to do your technologies even better and learn new things. Here is a non-exhaustive list of some sites you should visit. This list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
 
 **Note** : [Chinese Version](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
-
-
-
-## Table of contents
-* [Fungsi](#Fungsi)
-* [Install](#Install)
-* [Autentication](#Autentication)
-* [Logger](#Logger)
-* [Endpoint](#Endpoint)
-* [Dokumentasi](#Dokumentasi)
-
-## Fungsi 
-fungsi yang tersedia pada peoject ini antara lain
-
-Function      | Create             | Read                | Update             | Delete            |
-:------------ | :------------------| :-------------------| :------------------|-------------------|
-Tenant        | :white_check_mark: |  :white_check_mark: | :white_check_mark: | :white_check_mark:|
-Company        | :white_check_mark: |  :white_check_mark: | :white_check_mark: | :white_check_mark:|
-Division        | :white_check_mark: |  :white_check_mark: | :white_check_mark: | :white_check_mark:|
-USER        | :white_check_mark: |  :white_check_mark: | :white_check_mark: | :white_check_mark:|
-User-location        | :white_check_mark: |  :white_check_mark: | :white_check_mark: | :white_check_mark:|
-
-
-## Autentication
-untuk authentication menggunakan jsonwebtoken
-jadi setiap request yang masuk akan di periksa apkah tokennya valid atau tidak 
-
-
-
 ## 📖 Index
 * [When you get stuck](#when-you-get-stuck)
 * [News](#news)
 * [Magazines](#magazines)
 
-## When you get stuck {#when-you-get-stuck}
+## ❓ When you get stuck
 - [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
-- [devRant](https://www.devrant.io) : Community where you can rant and release your stress
-- [Google](https://www.google.com) : A search engine for anything you get stuck with.
-- [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything
-- [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
-- [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
-- [Stack Exchange](https://stackexchange.com/) : Stack Exchange is the combination of Stack Overflow and 170+ sites where you can get any kinds of help
-- [Coderanch](https://coderanch.com/) : A friendly place for programming greenhorns. Jump straight into any of our topics and light hearted discussions. Ranging from Java, Databases, Android, Programmer certification, Programming jobs and much more...
 
-<div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
-</div>
+## 📰 News
+- Stay updated with the latest in tech and programming.
 
-## News {#news}
-- [ACM TechNews](http://technews.acm.org) : TechNews
-- [Stratechery](https://stratechery.com) : Stratechery by Ben Thompson
-- [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
-- [Ars Technica](https://arstechnica.com) : Posts unique quality articles on technology, science, politics and society.
-- [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
-- [Better Programming](https://medium.com/better-programming) : Featured articles for modern developers available every day 
-- [CNET](https://www.cnet.com/news/) : Your guide to a better future! An excellent source of up-to-date tech news.
-- [Daily.Dev](https://daily.dev/) : A Great Chrome extension which provides recent and relevant tech articles and news
-- [DevOpsLinks](http://devopslinks.com) : An online community of thousands of developers and IT experts interested in DevOps
-- [Frontend Focus Newsletter](https://frontendfoc.us) : once-weekly roundup of the frontend news, articles and tutorials
-- [GSMArena.com](http://www.gsmarena.com) : news related to the latest mobile phones and android.
-- [Hacker News Digest](https://hndigest.com) : curated automatically, delivered as frequently as you want
-- [Hacker News](https://news.ycombinator.com) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
-- [Hacker Newsletter](http://www.hackernewsletter.com) : curated by hand, delivered weekly
-- [Hacker Noon](https://hackernoon.com) : How hackers start their afternoons.
-- [High Scalability](http://highscalability.com) : Success stories of various companies on their apps, infra scaling.
-- [Lobsters](https://lobste.rs) : Lobsters is a technology-focused community centered around link aggregation and discussion.
-- [product hunt](https://www.producthunt.com) : Discover your next favorite thing
-- [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
-- [Reddit.com/r/programming](https://www.reddit.com/r/programming/) : Subreddit with aggregated tech news and articles
-- [Slashdot](https://slashdot.org) : News, Social news (Originally "News for Nerds. Stuff that Matters")
-- [StackShare](https://stackshare.io) : See what tools are popular with developers and companies and read about their technology decisions
-- [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
-- [The DEV Community](https://dev.to) : Where programmers share ideas and help each other grow.
-- [The Verge](https://www.theverge.com) : More product oriented tech news
-- [WCCF Tech](https://wccftech.com) : curated news related to Computer Hardware, Software, and everything else in the Tech World. 
-- [XDA](https://www.xda-developers.com) : Android Developers News
-- [Hashnode](https://hashnode.com/) : Hashnode is a friendly and inclusive community for software developers
-- [Rekt](https://rekt.news/) : A journalism related to Defi, Web3, Blockchain and security on them.
-- [Hackaday](https://hackaday.com) : Hacking is an art form that uses something in a way in which it was not originally intended.
+## 📚 Magazines
+- Explore curated content from popular programming magazines.
 
-<div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
-</div>
-
-## 📚 Magazines {#magazines}
-- [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
-- [Nautilus](http://nautil.us) : NewYorker for tech.
-- [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
-
-<div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
-</div>
 
 ## 👶 Coding practice for beginners
 - [Codedex - start your coding adventure](https://www.codedex.io) : Gamify your learning experience and have fun learning how to code!
