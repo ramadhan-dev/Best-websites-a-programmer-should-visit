@@ -14,8 +14,8 @@ When learning CS, there are some useful sites you must know to get always inform
 **Note** : [Chinese Version](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 ## 📖 Index
 * [When you get stuck](#-when-you-get-stuck)
-* [News](#-news)
-* [Magazines](#-magazines)
+* [News](#News)
+* [Magazines](#Magazines)
 
 ## When you get stuck
 - [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
