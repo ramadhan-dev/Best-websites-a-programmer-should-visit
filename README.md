@@ -18,7 +18,7 @@ When learning CS, there are some useful sites you must know to get always inform
 * [News](#news)
 * [Magazines](#agazines)
 
-## ❓ When you get stuck
+## ❓ When you get stuck {#when-you-get-stuck}
 - [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
 - [devRant](https://www.devrant.io) : Community where you can rant and release your stress
 - [Google](https://www.google.com) : A search engine for anything you get stuck with.
@@ -32,7 +32,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## 📰 News
+## 📰 News {#news}
 - [ACM TechNews](http://technews.acm.org) : TechNews
 - [Stratechery](https://stratechery.com) : Stratechery by Ben Thompson
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
@@ -68,7 +68,7 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## 📚 Magazines
+## 📚 Magazines {#magazines}
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
 - [Nautilus](http://nautil.us) : NewYorker for tech.
 - [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
